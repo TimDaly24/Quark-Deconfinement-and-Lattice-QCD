@@ -60,8 +60,8 @@ python Main_Function.py
 ```
 
 This produces plots of:
-- ⟨P⟩ (Polyakov loop expectation value) vs β
-- χ_L (Polyakov loop susceptibility) vs β
+- $⟨P⟩$ (Polyakov loop expectation value) vs $β$
+- $χ_L$ (Polyakov loop susceptibility) vs β
 
 ### Average plaquette vs β
 
